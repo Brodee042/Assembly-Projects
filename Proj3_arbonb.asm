@@ -2,7 +2,7 @@
 TITLE Proj3_arbonb     (Proj3_arbonb.asm)
 
 ; Author: Brody Arbon
-; Last Modified:            2/12/2024 (used a grace day)
+; Last Modified:            2/12/2024
 ; OSU email address:        arbonb@oregonstate.edu
 ; Course number/section:    CS271 Section 400
 ; Project Number: Project 3                 Due Date: 2/11/2024

@@ -1,6 +1,7 @@
 # Assembly Projects
 
-This repository contains a collection of assembly language projects that cover various concepts such as loops, arrays, input validation, and mathematical operations. Below is an overview of each project.
+
+This repository has the individual projects that I have completed using MASM assembly language and it also highlights competency on various concepts. Below is a quick overview of what what each project does.
 
 ## Projects Overview
 

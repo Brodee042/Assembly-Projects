@@ -5,7 +5,7 @@ TITLE Proj3_arbonb     (Proj3_arbonb.asm)
 ; Last Modified:            2/12/2024 (used a grace day)
 ; OSU email address:        arbonb@oregonstate.edu
 ; Course number/section:    CS271 Section 400
-; Project Number: Project 3                 Due Date: 2/11/2024 (used a grace day so no late penalty)
+; Project Number: Project 3                 Due Date: 2/11/2024
 ; Description: Prints out the highest number, lowest number, the sum of all numbers recieved, the amount of numbers recieved, and the average which is rounded
 ; We get these numbers via a loop/accumulator, which gets a users input, verifies it is in the range we want, and then we compare to the min and max already in the system,
 ; add it to the sum, and increment the total loop number. We keep doing that till we get a positive number, then we print out the above info.

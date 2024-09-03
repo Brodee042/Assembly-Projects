@@ -21,5 +21,5 @@ This repository contains a collection of assembly language projects that cover v
 - **Key Concepts**: Arrays, sorting algorithms, loops, counting occurrences, procedures, stack-passed parameters.
 
 ### 5. Project 6
-- **Description**: This project takes 10 values from the user, which can be positive or negative. The program checks each input to ensure it isn't too large and doesn't contain letters or symbols. This validation is done by converting the input into a string and comparing the ASCII values to confirm they are digits or the `+` or `-` symbols. Once validated, the values are stored. The project also attempts to calculate the sum of the values, though some issues were encountered during implementation.
+- **Description**: This project takes 10 values from the user, which can be positive or negative. The program checks each input to ensure it isn't too large and doesn't contain letters or symbols. This validation is done by converting the input into a string and comparing the ASCII values to confirm they are digits or the `+` or `-` symbols. Once validated, the values are stored. The project also attempts to calculate the sum of the values.
 - **Key Concepts**: Input validation, ASCII value comparison, string manipulation, summation, debugging.

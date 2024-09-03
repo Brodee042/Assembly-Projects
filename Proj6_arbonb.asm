@@ -4,13 +4,12 @@ TITLE Proj6_arbonb     (Proj6_arbonb.asm)
 ; Last Modified: 3/19/2024
 ; OSU email ADDress: arbonb@oregonstate.edu
 ; Course number/section:   CS271 Section 400
-; Project Number: Project 6 - String Primitives and Macros          Due Date: 3/17/2024 (LATE)
+; Project Number: Project 6 - String Primitives and Macros          Due Date: 3/17/2024
 
 ; Description: This program takes 10 values from the user, and they can be negative or positive, and they will will be checked
 ; so as to make sure that the number isn't too large or that it has letters or any other symbols that aren't numbers. this is done
 ; via changing the incoming number into a string, comparing the ASCII value of the number to make sure that the value is either - or +, 
-; or a digit. From their, once approved, the value is then stored. From their, we then tried to get the sum and I put a lot of work into it, 
-; but I never could get it to work, and I think I misunderstood something because I am unsure what is causing the issue.
+; or a digit. From their, once approved, the value is then stored.
 
 
 INCLUDE Irvine32.inc

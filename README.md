@@ -1,7 +1,7 @@
 # Assembly Projects
 
 
-This repository has the individual projects that I have completed using MASM assembly language and it also highlights competency on various concepts. Below is a quick overview of what what each project does.
+This repository has the individual projects that I have completed using MASM assembly language and it also highlights some of my competency on various concepts. Below is a quick overview of what each project does.
 
 ## Projects Overview
 
